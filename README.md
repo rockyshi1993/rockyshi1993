@@ -1,4 +1,3 @@
-### Rocky — Node.js Full‑Stack Engineer  
 **Maintainer of the VextJS open‑source organization**
 
 👋 Hi — I’m **Rocky**, a Node.js full‑stack developer with **10+ years** of production experience. I design and maintain pragmatic, production‑ready libraries and frameworks that prioritize **performance**, **maintainability**, and **developer experience**. VextJS is a personal, single‑maintainer org containing tools I use in real projects.
